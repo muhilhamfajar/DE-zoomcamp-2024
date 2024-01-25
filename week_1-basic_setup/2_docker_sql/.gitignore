@@ -1,0 +1,6 @@
+# Ignore folder
+ny_taxi_postgres_data/
+
+# Ignore all csv
+*.csv
+*.csv.gz
