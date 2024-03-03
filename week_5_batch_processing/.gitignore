@@ -1,0 +1,6 @@
+data/
+keys/*
+lib/
+fhv_trip/
+.ipynb*
+venv/
