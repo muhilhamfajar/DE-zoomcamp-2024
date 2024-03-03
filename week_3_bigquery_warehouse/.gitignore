@@ -169,5 +169,5 @@ node_modules
 scratch*
 /mage_data*
 *secrets*.json
-magic-zoomcamp
+# magic-zoomcamp
 *.json
